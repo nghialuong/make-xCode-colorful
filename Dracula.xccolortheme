@@ -34,8 +34,6 @@
 	<integer>1</integer>
 	<key>DVTFontSizeModifier</key>
 	<integer>4</integer>
-	<key>DVTLineSpacing</key>
-	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.188245 0.192381 0.226996 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -59,15 +57,15 @@
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 22.8</string>
+	<string>.SFNS-Regular - 22.4</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 39.8</string>
+	<string>.SFNS-Regular - 38.4</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 29.6</string>
+	<string>.SFNS-Regular - 28.8</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextStrongFont</key>
@@ -158,59 +156,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.character</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Bold - 19.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Bold - 19.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Bold - 19.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.number</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.string</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 		<key>xcode.syntax.url</key>
-		<string>UbuntuMono-Regular - 17.0</string>
+		<string>UbuntuMono-Regular - 19.0</string>
 	</dict>
 </dict>
 </plist>
